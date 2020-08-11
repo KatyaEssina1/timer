@@ -27,4 +27,4 @@ Timer logic: https://blog.predovan.com/2017/02/25/How-to-create-a-simple-React-S
 
 #### Linux
 
-- run `npm package-linux`
+- run `npm run package-linux`
